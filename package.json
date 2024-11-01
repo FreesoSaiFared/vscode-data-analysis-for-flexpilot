@@ -30,7 +30,7 @@
         "onChatParticipant:dachat.data"
     ],
     "extensionDependencies": [
-        "GitHub.copilot-chat"
+        "flexpilot.flexpilot"
     ],
     "keywords": [
         "ai",
